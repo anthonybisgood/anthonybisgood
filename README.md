@@ -10,8 +10,8 @@ I'm a college student and tech enthusiast who loves building applications.
 - 🌱 I’m currently learning **Full-Stack Web Dev | C++ | Data science** 
 - 👯 I’m looking to collaborate on **Projects with impact**
 - 📫 How to reach me: 
-          * [**Connect via LinkedIn**](https://www.linkedin.com/in/anthony-bisgood-b028a4194/)
-          * [**Send me an email**](mailto:abisgood30@gmail.com)
+-        * [**Connect via LinkedIn**](https://www.linkedin.com/in/anthony-bisgood-b028a4194/)
+-        * [**Send me an email**](mailto:abisgood30@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: 
           *I am a nature lover who loves to hike*
