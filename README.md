@@ -6,13 +6,14 @@ I'm a college student and tech enthusiast who loves building applications.
 <!--
 **anthonybisgood/anthonybisgood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🙌 I'm currently looking for roles in **Software Engineering | Data science**
+- 🌱 I’m currently learning **Full-Stack Web Dev | C++ | Data science** 
+- 👯 I’m looking to collaborate on **Projects with impact**
 - 📫 How to reach me: 
+          *[Connect via LinkedIn]*(https://www.linkedin.com/in/anthony-bisgood-b028a4194/)
+          *[Shoot me an email]*(mailto:abisgood30@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun facts: 
+          *I am a nature lover who loves to hike*
+          *Cooking and testing new recipies is my favorite hobby*
 
