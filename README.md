@@ -14,6 +14,6 @@ I'm a college student and tech enthusiast who loves building applications.
           * [**Send me an email**](mailto:abisgood30@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: 
-          * *I am a nature lover who loves to hike*
-          * *Cooking and testing new recipies is my favorite hobby*
+         * *I am a nature lover who loves to hike*
+         * *Cooking and testing new recipies is my favorite hobby*
 
