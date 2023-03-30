@@ -16,4 +16,4 @@ I'm a college student and tech enthusiast who loves building applications.
 - ⚡ Fun facts: 
     - I am a nature lover who loves to hike
     - Cooking and testing new recipies is my favorite hobby
-
+[![Anthony's Github Stats](https://github-readme-stats.vercel.app/api?username=anthonybisgood)](https://github.com/anthonybisgood/github-readme-stats)
