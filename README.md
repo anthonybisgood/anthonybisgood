@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-bisgood-b028a4194/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=abisgood30@gmail.com)](mailto:abisgood30@gmail.com)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?target=_blank&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-bisgood-b028a4194/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?target=_blank&style=flat-square&logo=Gmail&logoColor=white&link=abisgood30@gmail.com)](mailto:abisgood30@gmail.com)
 <!--
 **anthonybisgood/anthonybisgood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
